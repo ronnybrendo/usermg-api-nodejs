@@ -1,5 +1,5 @@
 {
-  "name": "auth-users",
+  "name": "usermg",
   "version": "1.0.0",
   "description": "Aprendendo a criar um sistema de gestão de usrs com node.js ",
   "license": "MIT",
